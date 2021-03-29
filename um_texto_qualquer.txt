@@ -1,0 +1,15 @@
+12
+{
+    +
+    -
+    ^
+}
+ Copiar strings em 
+Concatenar strings 
+ Descobrir o tamanho de ...
+Á
+â
+î
+?
+!
+"
